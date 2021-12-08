@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/ 
+Disallow: /readme.html
+Disallow: /refer/
+Sitemap: https://194.163.183.129/sitemap_index.xml
